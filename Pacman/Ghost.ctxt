@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ghost()
+comment1.params=
+comment1.target=int\ numberOfWalls()
+comment2.params=
+comment2.target=void\ moveInDirection()
+comment3.params=targetX\ targetY
+comment3.target=void\ moveTowardThis(int,\ int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

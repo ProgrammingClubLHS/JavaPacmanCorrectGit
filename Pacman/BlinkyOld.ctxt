@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlinkyOld()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ updatePacmanPath()
+comment3.params=
+comment3.target=void\ moveAlongPath()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
